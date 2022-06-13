@@ -1,0 +1,74 @@
+{
+    "experiences" : [
+        {
+            "companyAcronym" : "pbx",
+            "logo" : {
+                "url" : "https://www.laurentdubosq.com/img/photobox-logo.svg",
+                "alt" : "Logo Photobox"
+            },
+            "job": "Intégrateur Web",
+            "duration": "2010-2017",
+            "tasks" : [
+                "Intégration d'emailings, landing pages, triggers, merchandisings, promotions...",
+                "Participer au lancement de nouveaux produits et à leurs mises en avant sur les sites du groupe", 
+                "Travailler sur l’ensemble des intégrations front-end nécessaires à la bonne maintenance et évolution de l’ensemble des sites",
+                "Conseiller les interlocuteurs sur les options techniques à envisager pour répondre au mieux à la demande des parties prenantes",
+                "Participer à la coordination et au suivi des différents projets, notamment la mise en place de nouvelles fonctionnalités",
+                "Effectuer le suivi de l’homogénéité des parcours client, détecter les améliorations potentielles et mettre en place des actions correctives",
+                "Technologies employées : XHTML, CSS 1/2, Javascript (débutant)",
+                "Spécialitée développée : Intégration emailing",
+                "Skills développées : Aisance relationnelle, empathie, gestion du stress.",
+                "Logiciels employés : Sublime Text 2, Photoshop, Néolane, Adobe Campaign"
+            ],
+            "url": {
+                "full" : "https://www.photobox.fr/",
+                "short" : "photobox.fr"
+            }
+        },
+        {
+            "companyAcronym" : "awk",
+            "logo" : {
+                "url" : "https://www.laurentdubosq.com/img/awakning-logo-white.png",
+                "alt" : "Logo Awakning Jewelry"
+            },
+            "job": "Entrepreneur",
+            "duration": "2017-2021",
+            "tasks" : [
+                "Création d’une marque de bijou orientale, son site e-commerce, sa présence sur les réseaux sociaux, ses publicités, dont le business model serait viable et dont les produits sont destinés à une clientèle d’un pays anglophone (USA) à des fins d'auto-formation", 
+                "Acquisition des connaissances de base inhérentes aux métiers liés à la création d’une marque vendant sur le web (Aspect Juridique, Logistique, Marketing, Commercial, Product Management, Copywriting, UX, UI, Développement, SEO, ...)",
+                "Plateforme employée : Shopify",
+                "Skills développées : Résilience, capacité à se remettre en cause et à apprendre.",
+                "Logiciels employés : Sublime Text 2, Photoshop"
+            ],
+            "url": {
+                "full" : "https://www.awakningjewelry.com/",
+                "short" : "awakningjewelry.com"
+            }
+        },
+        {
+            "companyAcronym" : "",
+            "logo" : {
+                "url" : "",
+                "alt" : ""
+            },
+            "job": "Développeur Front-End/React",
+            "duration": "2022",
+            "tasks" : [
+                "Intégration from scratch à partir d'une maquette distribuée librement par CodingNepal", 
+                "Technologies employées : HTML5, CSS3/SASS & Javascript ES6",
+                "Bibliothèque employée : ReactJS",
+                "Techniques employées : Hooks, Props, Axios + JSON, Variable d'environnement, Flexbox, Grid, SASS, Media queries, REM/EM, SEO etc.",
+                "Plugins employées : emailJS, Axios, Json-Server",
+                "Méthode de développement : Mobile-first, StrictMode (React)",
+                "Skills développées : Rigueur et sens de la logique.",
+                "Logiciels employés : Visual Studio Code, Photoshop"
+            ],
+            "url": {
+                "full" : "",
+                "short" : "laurentdubosq.com"
+            }
+        }
+    ]
+
+
+}

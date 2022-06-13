@@ -1,0 +1,29 @@
+{
+    "skills" : [
+        {
+            "skill" : "ReactJS/NextJS (débutant)",
+            "level" : "45"
+        },
+        {
+            "skill" : "Javascript (débutant)",
+            "level" : "50"
+        },
+        {
+            "skill" : "React Testing (débutant)",
+            "level" : "30"
+        },
+        {
+            "skill" : "CSS3/SASS",
+            "level" : "85"
+        },
+        {
+            "skill" : "HTML 5",
+            "level" : "85"
+        },
+        {
+            "skill" : "Anglais B1/B2",
+            "level" : "60"
+        }
+    ]
+
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.997af154.css",
+    "main.js": "/static/js/main.d901e67f.js",
+    "static/media/hero-bg-laurent-dubosq-1680w.jpg": "/static/media/hero-bg-laurent-dubosq-1680w.51f45257ad2a9a8506f3.jpg",
+    "static/media/hero-bg-1560w.jpg": "/static/media/hero-bg-1560w.ce623afded9e023bb116.jpg",
+    "static/media/hero-bg-1040w.jpg": "/static/media/hero-bg-1040w.f1a1ec5fb1323d1a2bb6.jpg",
+    "static/media/hero-bg-520w.jpg": "/static/media/hero-bg-520w.f0733c058b26fe6f804d.jpg",
+    "index.html": "/index.html",
+    "main.997af154.css.map": "/static/css/main.997af154.css.map",
+    "main.d901e67f.js.map": "/static/js/main.d901e67f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.997af154.css",
+    "static/js/main.d901e67f.js"
+  ]
+}
